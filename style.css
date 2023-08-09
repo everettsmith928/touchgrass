@@ -1,0 +1,38 @@
+.header {
+  height: 10vh;
+}
+
+.hero-image {
+  height: 80vh;
+  background-image: url(https://images.unsplash.com/photo-1563212108-03d3b081f91e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1186&q=80);
+  background-size: cover;
+  align-items: center;
+}
+
+.splash-text-box {
+  min-height: 50vh;
+  height: auto;
+  background-color: rgb(53, 53, 53);
+}
+
+.carousel {
+  height: auto;
+  min-height: 50vh;
+}
+
+.carousel-image {
+  height: 200px;
+  width: 200px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.logo {
+  font-size: 48px;
+}
+
+.nav {
+  font-size: 12px;
+}
